@@ -1,0 +1,28 @@
+.item {
+	min-height: 170px;
+	height: 170px;
+	border: 1px solid #333;
+	overflow: hidden;
+}
+.img {
+	width: 200px;
+	padding: 10px;
+}
+.img img {
+	width: 170px;
+}
+.content {
+	margin-left: 190px;
+	margin-top: -114px;
+	margin-right: 20px;
+	overflow: hidden;
+}
+
+
+.bfc-two img {
+	float: left;
+	margin-right: 20px;
+}
+.bfc-two .content {
+	overflow: hidden;
+}

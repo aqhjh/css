@@ -1,0 +1,49 @@
+ul, li {
+	margin: 0;
+	padding: 0;
+}
+.img-list {
+	margin: 0 auto;
+	/* width: 100%; */
+	width: 660px;
+	border: 1px solid #000;
+}
+.img-list ul {
+	overflow: hidden;
+	list-style: none;
+	/* margin-right: -2.1%; */
+	margin-right: -20px;
+}
+
+.img-list ul li {
+	float: left;
+	/* margin-right: 2%; */
+
+	margin-right: 20px;
+	/* width: 23%; */
+
+}
+.img-list ul li img {
+	width: 150px;
+}
+
+
+.img-list-2 {
+	width: 100%;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.img-list-2 ul {
+	width: 100%;
+	overflow: hidden;
+	margin-right: -20px;
+}
+
+.img-list-2 ul li {
+	float: left;
+	margin-right: 20px;
+}
+
+.img-list-2 ul li img {
+	width: 150px;
+}

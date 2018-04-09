@@ -1,0 +1,15 @@
+.wrapper {
+	overflow: hidden;
+	width: 100%;
+}
+.box {
+	width: 250px;
+	margin-left: 10px;
+	float: left;
+	padding: 20px;
+	padding-bottom: 1000px;
+	margin-bottom: -980px;
+	background: #89ac10;
+	border-radius: 15px;
+
+}

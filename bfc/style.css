@@ -1,0 +1,17 @@
+.outer {
+	margin: 20px;
+	padding: 10px;
+}
+.inner {
+	padding: 10px;
+	margin: 20px;
+}
+body {
+	margin: 10px;
+}
+.only-ele {
+	margin: 50px;
+}
+.clear {
+	clear: both;
+}
